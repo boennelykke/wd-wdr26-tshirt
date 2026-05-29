@@ -1,10 +1,10 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 216,
-    "left": 173,
-    "width": 5411,
-    "height": 7214,
+    "top": 0,
+    "left": 10,
+    "width": 5735,
+    "height": 7647,
     "isRotated": false,
     "originalWidth": 5761,
     "originalHeight": 7647
@@ -19,5 +19,5 @@
     "luminanceImage": "Graphic_luminance.jpg"
   },
   "created": 1780052314979,
-  "updated": 1780064580947
+  "updated": 1780065063368
 }
