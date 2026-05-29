@@ -1,16 +1,16 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 0,
-    "left": 10,
-    "width": 5735,
-    "height": 7647,
+    "top": 216,
+    "left": 173,
+    "width": 5411,
+    "height": 7214,
     "isRotated": false,
     "originalWidth": 5761,
     "originalHeight": 7647
   },
   "imagePath": "image-targets/Graphic_luminance.jpg",
-  "metadata": "Rising",
+  "metadata": null,
   "name": "Graphic",
   "resources": {
     "originalImage": "Graphic_original.jpg",
@@ -19,5 +19,5 @@
     "luminanceImage": "Graphic_luminance.jpg"
   },
   "created": 1780052314979,
-  "updated": 1780053498566
+  "updated": 1780064580947
 }
